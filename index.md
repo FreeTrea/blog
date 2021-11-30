@@ -1,7 +1,3 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+# 欢迎来到FreeTree的个人博客
+### ——永远相信美好的事情即将发生
+![image](https://user-images.githubusercontent.com/46917097/143969445-e330d714-1894-4e84-bc50-c317c6bf7fa6.png)
